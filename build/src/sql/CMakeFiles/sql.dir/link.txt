@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsql.a  CMakeFiles/sql.dir/Connection.cpp.o CMakeFiles/sql.dir/ConnectionPool.cpp.o
+/usr/bin/ranlib libsql.a
